@@ -1,0 +1,2 @@
+kalman_filter
+-DCATKIN_DEVEL_PREFIX=/home/zjs/git_kal/devel -DCMAKE_INSTALL_PREFIX=/home/zjs/git_kal/install -G Unix Makefiles
